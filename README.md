@@ -1,5 +1,8 @@
 ### [blog](https://advaith.dev) // [twitter](https://twitter.com/advaithdoosa) // [keybase](https://keybase.io/advaith)
 
+![wraith's github stats](https://github-readme-stats.vercel.app/api?username=advaithd&count_private=true)
+
+
 <!--
 **AdvaithD/advaithd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
