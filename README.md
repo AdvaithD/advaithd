@@ -1,8 +1,6 @@
-### [blog](https://advaith.dev) // [twitter](https://twitter.com/advaithdoosa) // [keybase](https://keybase.io/advaith)
+### [blog](https://advaith.dev/about) // [twitter](https://twitter.com/advaith__) // [keybase](https://keybase.io/advaith)
 
-<!-- ![wraith's github stats](https://github-readme-stats.vercel.app/api?username=advaithd&count_private=true&show_icons=true&theme=tokyonight) -->
-
-
+[magiclink](https://open.spotify.com/playlist/0O9seFjAp2FMzb5c6wH2Bq?si=7joI8tPCQSugkmDwmJsiuA)
 <!--
 **AdvaithD/advaithd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
